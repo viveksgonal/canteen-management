@@ -17,9 +17,9 @@ and the system will work in almost all configurations. It has got following feat
 • Greater efficiency.\
 • More secure.\
 • User friendliness and interactive.\
-• Minimum time required.\\
+• Minimum time required.\
 
 #Software Used:\
 1)Android Studio\
 2)Firebase\
-3)Java\
+3)Java
