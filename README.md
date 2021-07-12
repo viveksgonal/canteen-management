@@ -6,9 +6,9 @@ Canteen Management System is an android application designed primarily for use i
 ordering industry. This system will allow the canteens to increase scope of business by reducing
 the labor cost involved. The system also allows to quickly and easily manage an online menu
 which customers can browse and use to place orders with just few clicks.Customers don’t have
-to wait in a queue to place order for a longer time.
+to wait in a queue to place order for a longer time.\
 The application is very simple in design and to implement. The application is easy to understand
-and the system will work in almost all configurations. It has got following features:
+and the system will work in almost all configurations. It has got following features: \
 • Fast Services
 • Don’t have to wait in a queue for ordering food
 • Make managing orders simpler.
