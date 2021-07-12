@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Canteen Staff</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_user_menu">user_menu</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_user_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_order">order</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_add">Add Item</string>
+    <string name="menu_delete">Delete Item</string>
+
+
+    <string-array name="Food_Options">
+        <item>South_Indian</item>
+        <item>North_Indian</item>
+        <item>Snacks</item>
+        <item>Beverages</item>
+        <item>Desert</item>
+        <item>Extras</item>
+    </string-array>
+    <string name="title_activity_rec__order">Rec_Order</string>
+    <string name="canteen">Canteen</string>
+    <string name="staff">staff</string>
+    <string name="todo">TODO</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="admin">Admin</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="add_item">Add Item</string>
+    <string name="food_item">Food Item</string>
+    <string name="number">Number</string>
+    <string name="textview">TextView</string>
+    <string name="reject">Reject</string>
+    <string name="accept">Accept</string>
+    <string name="picked_up">Picked-Up</string>
+    <string name="ready">Ready</string>
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+    <string name="hello">Hello</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+</resources>

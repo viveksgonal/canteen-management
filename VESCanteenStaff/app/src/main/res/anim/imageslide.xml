@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--- Fade In code for textview , Fading in is nothing but increasing alpha values from 0 to 1 -->
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+        android:fillAfter="true" >
+
+        <alpha
+            android:duration="1000"
+            android:fromAlpha="0.0"
+            android:interpolator="@android:anim/accelerate_interpolator"
+            android:toAlpha="1.0" />
+
+    </set>

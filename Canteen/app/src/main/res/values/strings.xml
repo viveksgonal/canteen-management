@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Canteen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="north_indian">north_indian</string>
+    <string name="south_indian">south_indian</string>
+    <string name="beverages">Beverages</string>
+    <string name="desert">Desert</string>
+    <string name="extras">Extras</string>
+    <string name="snacks">Snacks</string>
+    <string name="cart">Cart</string>
+    <string name="title_activity_tab">Tab</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="gvvgvggvgvv_gmail_com">gvvgvggvgvv@gmail.com</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="dont_t_have_an_account_sign_up">Dont\'t have an account? Sign up</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="canteen">canteen</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="enter_email_id">Enter Email-ID</string>
+    <string name="have_an_account_login">Have an Account? Login!!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="_91">+91</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="ni">North Indian</string>
+    <string name="si">South Indian</string>
+    <string name="cancel">Cancel</string>
+    <string name="okay">Okay</string>
+    <string name="d">default</string>
+    <string name="r">Remove</string>
+    <string name="t">TextView</string>
+    <string name="c">Cancel</string>
+    <string name="p">Proceed</string>
+    <string name="a">9945678900</string>
+    <string name="w">215151</string>
+    <string name="car">Cart</string>
+    <string name="bill">BILL</string>
+    <string name="todo">TODO</string>
+    <string name="order">Order:</string>
+</resources>

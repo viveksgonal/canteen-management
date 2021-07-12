@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">148873246502-efjt33gakk16u3bnn86eusshm4h4cmhl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://canteenmanagement-c88bc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">148873246502</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZW_yKvBjtrHfTRNQOF8Iih_CIXE6eilw</string>
+    <string name="google_app_id" translatable="false">1:148873246502:android:469b04aac74a1ef404b3e7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZW_yKvBjtrHfTRNQOF8Iih_CIXE6eilw</string>
+    <string name="google_storage_bucket" translatable="false">canteenmanagement-c88bc.appspot.com</string>
+    <string name="project_id" translatable="false">canteenmanagement-c88bc</string>
+</resources>

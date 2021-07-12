@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/wab"
+    android:layout_height="match_parent"
+    tools:context=".Otp">
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="343dp"
+        android:layout_height="53dp"
+        android:fontFamily="@font/fugaz_one"
+        android:text="@string/canteen"
+        android:textColor="#FA0F0F0F"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.397"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/OTP_button"
+        android:layout_width="274dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/custom_edittext"
+        android:backgroundTint="@color/black"
+        android:text="@string/send_otp"
+        android:textColor="@color/wht"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/OTP_text_view" />
+
+    <EditText
+        android:id="@+id/phone_text_view"
+        android:layout_width="264dp"
+        android:layout_height="59dp"
+        android:layout_marginBottom="28dp"
+        android:background="@drawable/ic_pnumberend"
+        android:hint="@string/phone_number"
+        android:ems="10"
+        android:importantForAutofill="no"
+        android:inputType="phone"
+        app:layout_constraintBottom_toTopOf="@+id/OTP_text_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.733"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="RtlHardcoded" />
+
+
+    <EditText
+        android:id="@+id/OTP_text_view"
+        android:layout_width="300dp"
+        android:layout_height="56dp"
+        android:background="@drawable/custom_edittext"
+        android:drawableStart="@drawable/ic_otp"
+        android:ems="10"
+        android:hint="@string/enter_otp"
+        android:importantForAutofill="no"
+        android:inputType="numberPassword"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.522"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.377" />
+
+    <Button
+        android:id="@+id/verify_button"
+        android:layout_width="274dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/custom_edittext"
+        android:backgroundTint="@color/black"
+        android:text="@string/verify_otp"
+        android:textColor="@color/wht"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/OTP_button" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="50dp"
+        android:layout_height="54dp"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/ic_pnumber"
+        android:gravity="center"
+        android:text="@string/_91"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/OTP_text_view"
+        app:layout_constraintEnd_toStartOf="@+id/phone_text_view" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
