@@ -19,7 +19,7 @@ and the system will work in almost all configurations. It has got following feat
 • User friendliness and interactive.\
 • Minimum time required.
 
-# Software Used:\
+# Software Used:
 1)Android Studio\
 2)Firebase\
 3)Java
