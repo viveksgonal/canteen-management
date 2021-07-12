@@ -1,7 +1,6 @@
-# canteen-management
 Android Application using Java with Firebase
 
-#About
+# About
 
 Canteen Management System is an android application designed primarily for use in the food
 ordering industry. This system will allow the canteens to increase scope of business by reducing
